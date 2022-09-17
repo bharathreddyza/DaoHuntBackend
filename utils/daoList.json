@@ -1,0 +1,70 @@
+[
+  {
+    "chainId": "1",
+    "contractName": "Lido",
+    "contractTicker": "LDO",
+    "contractAddress": "0x5a98fcbea516cf06857215779fd812ca3bef1b32",
+    "logoUrl": "https://logos.covalenthq.com/tokens/1/0x5a98fcbea516cf06857215779fd812ca3bef1b32.png",
+    "snapshotId": "lido-snapshot.eth",
+    "description": "Lido incentivizes staking of ETH for validation of Ethereum 2.0 beacon nodes, without locking the staked tokens while allowing them to farm yield. It runs an ecosystem grants program."
+  },
+  {
+    "chainId": "1",
+    "contractName": "BitDao",
+    "contractTicker": "BIT",
+    "contractAddress": "0x1a4b46696b2bb4794eb3d4c26f1c55f9170fa4c5",
+    "logoUrl": "https://logos.covalenthq.com/tokens/0x1a4b46696b2bb4794eb3d4c26f1c55f9170fa4c5.png",
+    "snapshotId": "bitdao.eth",
+    "description": "Bootstrapped by ByBit DEX and a massive launch auction, BitDAO aims to build, grant and partner towards a cross-ownership network of crypto projects promoting DeFi governance, treasury management and education."
+  },
+
+  {
+    "chainId": "1",
+    "contractName": "Radicle",
+    "contractTicker": "RAD",
+    "contractAddress": "0x31c8eacbffdd875c74b94b077895bd78cf1e64a3",
+    "logoUrl": "https://logos.covalenthq.com/tokens/1/0x31c8eacbffdd875c74b94b077895bd78cf1e64a3.png",
+    "snapshotId": "gov.radicle.eth",
+    "description": "Radicle is a community-governed coding network that facilitates collaborative coding in a permissionless, creator-owned, interactive environment, with designated development tools."
+  },
+
+  {
+    "chainId": "1",
+    "contractName": "Instadapp",
+    "contractTicker": "INST",
+    "contractAddress": "0x6f40d4a6237c257fff2db00fa0510deeecd303eb",
+    "logoUrl": "https://logos.covalenthq.com/tokens/1/0x6f40d4a6237c257fff2db00fa0510deeecd303eb.png",
+    "snapshotId": "instadapp-gov.eth",
+    "description": "The open source middleware platform for decentralized finance applications"
+  },
+
+  {
+    "chainId": "1",
+    "contractName": "Gitcoin",
+    "contractTicker": "GTC",
+    "contractAddress": "0xde30da39c46104798bb5aa3fe8b9e0e1f348163f",
+    "logoUrl": "https://logos.covalenthq.com/tokens/0xde30da39c46104798bb5aa3fe8b9e0e1f348163f.png",
+    "snapshotId": "gitcoindao.eth",
+    "description": "Gitcoin is a significant grants center and community-builder for DAO-era coordination of capital and culture. It serves crypto education, employment market, project acceleration and BUIDLing through nurtured internal leadership and workstreams."
+  },
+
+  {
+    "chainId": "1",
+    "contractName": "NFTX",
+    "contractTicker": "NFTX",
+    "contractAddress": "0x87d73e916d7057945c9bcd8cdd94e42a6f47f776",
+    "logoUrl": "https://logos.covalenthq.com/tokens/0x87d73e916d7057945c9bcd8cdd94e42a6f47f776.png",
+    "snapshotId": "nftx.eth",
+    "description": "NFTX tokenizes NFTs to be used as DeFi collaterals, thus facilitating their discovery, yielding and farming, among other venues through its own NFT marketplace."
+  },
+
+  {
+    "chainId": "1",
+    "contractName": "StakeWise",
+    "contractTicker": "SWISE",
+    "contractAddress": "0x48c3399719b582dd63eb5aadf12a40b4c3f52fa2",
+    "logoUrl": "https://logos.covalenthq.com/tokens/1/0x48c3399719b582dd63eb5aadf12a40b4c3f52fa2.png",
+    "snapshotId": "stakewise.eth",
+    "description": "StakeWise runs Ethereum-only liquidity pools that initiate Ethereum 2.0 Proof-of-Stake validator nodes. Stakers are offered yields and opportunities to farm those yields accross DeFi."
+  }
+]

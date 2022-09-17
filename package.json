@@ -1,0 +1,32 @@
+{
+  "name": "dao_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "bcrypt": "^5.0.1",
+    "cookie-parser": "^1.4.6",
+    "cookie-session": "^2.0.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "graphql": "^16.3.0",
+    "graphql-request": "^4.2.0",
+    "ipfs": "^0.62.2",
+    "mongoose": "^6.2.8",
+    "node-cron": "^3.0.0",
+    "orbit-db": "^0.28.3",
+    "passport": "^0.5.2",
+    "passport-facebook": "^3.0.0",
+    "passport-google-oauth20": "^2.0.0",
+    "passport-local": "^1.0.0",
+    "uuid": "^8.3.2",
+    "validator": "^13.7.0"
+  }
+}

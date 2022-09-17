@@ -1,0 +1,28 @@
+dao.name
+dao.contract_ticker_symbol
+dao.contract
+dao.description
+dao.treasury
+dao.logo_url
+dao.quote_rate
+dao.rank
+totalMembers
+updatedAt
+reviews 
+    comments
+upvotes
+topTokenHolders
+    address
+    balance
+    userhashinourdb
+jobs
+    jobid
+    dao_id
+    description
+    tags [ui/ux,frontend,backend,fullstack,research,writing,content,bounties,hackathon,moderator etc]
+    amount
+    open [boolean]job open or completed
+    applied
+        userhash from our db
+    
+
