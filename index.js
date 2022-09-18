@@ -90,3 +90,4 @@ app.listen(PORT, () => {
   console.log(`App up and running at port ${PORT} 👟️👟️`);
 });
 //source ~/.bashrc    
+//nvm use 16.13.0               
