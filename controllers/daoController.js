@@ -367,7 +367,7 @@ exports.calcTreasuryOvertime = catchAsync(async (req, res, next) => {
 exports.getDaos = catchAsync(async (req, res, next) => {
   // console.log(req.header('user'));
   const daos = await DaoModel.getAllDaos();
-
+  console.log("succes",daos)
   return res.status(200).json({
     success: true,
     data: daos,
